@@ -23,7 +23,7 @@ export default function LoveCounter() {
   return (
     <div className="relative min-h-screen w-full overflow-hidden">
       {/* Background image */}
-      <div className="absolute inset-0 bg-cover bg-center" style={{ backgroundImage: "url(/shin-background.jpeg)" }} />
+      <div className="absolute inset-0 bg-cover bg-center" style={{ backgroundImage: "url(/shin-background2.jpeg)" }} />
 
       {/* Overlay để làm nổi bật counter */}
       <div className="absolute inset-0 bg-black/20" />
